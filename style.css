@@ -1,0 +1,14 @@
+body {
+    background-color:chartreuse;
+}
+
+.heading {
+    width: 100%;
+    background-color: black;
+    color:#ef7afa;
+    font-size: 24px;
+}
+.button {
+    background-color: #04f841;
+    color:darkmagenta;
+}
